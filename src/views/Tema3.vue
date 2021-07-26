@@ -253,7 +253,7 @@
               ul.lista-ul--color 
                 li 
                   i.fas.fa-check
-                  | Registra número de folio mayor, acorde al consecutivo, dónde se realiza el resumen de la transacción económica.
+                  | Registra número de folio mayor, acorde al consecutivo, donde se realiza el resumen de la transacción económica.
                 li 
                   i.fas.fa-check
                     

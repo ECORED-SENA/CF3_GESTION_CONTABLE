@@ -212,7 +212,7 @@ export default {
     },
     {
       referencia: 'BBVA (2020, 16 de noviembre). Ejemplo de cheque.',
-      link: 'https://www.bbva.com.py/public/formato-cheques-2017.jsp',
+      //link: 'https://www.bbva.com.py/public/formato-cheques-2017.jsp',
     },
     {
       referencia:

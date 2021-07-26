@@ -89,21 +89,14 @@
         .col-auto 
             img.img-a.my-3(src="@/assets/curso/images/tema1/img_2.svg" alt="", style="width:250px; display:inline-block; margin:auto 5rem;").img-fluid
         .col
-
           h3 Documentos no contables          
-          p.p Tienen una utilidad previa a la transacción comercial. Permiten al comprador 
-          p.p tener una idea sobre un acto mercantil, son meramente informativos y no 
-          p.p suscita un registro en la contabilidad (Angulo, 2018). Son ejemplos de 
-          p.p documentos no contables los siguientes:
+          p Tienen una utilidad previa a la transacción comercial. Permiten al comprador tener una idea sobre un acto mercantil, son meramente informativos y no suscita un registro en la contabilidad (Angulo, 2018). Son ejemplos de documentos no contables los siguientes:
           br
           p.p  1. Cotización.
           p.p  2. Pedido.
           p.p  3. Remisión.
-
     p.mt-2 
-
     h3 Títulos valores  
-      
     p Son documentos comerciales regidos por el Código de Comercio y el Código Civil Colombiano. En ellos se incorpora la figura del patrimonio de una persona natural o jurídica. En la realidad económica, esta herramienta dinamiza la economía en el comercio formal e informal. Ejemplos de títulos valores son:
       br
       br
